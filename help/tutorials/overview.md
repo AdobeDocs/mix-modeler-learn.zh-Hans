@@ -4,7 +4,7 @@ description: Adobe Mix Modeler 的视频和教程集。
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 通过这些视频和教程了解Adobe Mix Modeler。
 
-Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和规划营销投资，这些模型可让您深入了解营销投资对关键业务目标的历史和未来影响。
+Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和规划营销投资，这些模型可提供有关营销投资对关键业务目标的历史和未来影响的见解。
 
 
 <div id="recs-overview-body-1"></div>
@@ -30,19 +30,6 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
 <div id="staff-picks-section">
 <table style="margin-top: 0 !important">
 <tr>
-  <td>
-    <a href="intro/use-cases.md">
-      <img alt="“用例”教程的缩略图图像" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong>用例</strong>
-    </a>
-    </div>
-    <p>
-    <em>了解Adobe Mix Modeler的主要用例</em>
-    <p>
-  </td>
   <td>
     <a href="intro/demo.md">
       <img alt="“端到端演示”教程的缩略图图像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
@@ -66,10 +53,23 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
     </a>
     </div>
     <p>
-    <em>了解Adobe Mix Modeler的主要用户界面组件</em>
+    <em>了解Adobe Mix Modeler的关键用户界面组件</em>
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="“用户工作流”教程的缩略图图像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong>用户工作流</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解Adobe Mix Modeler中的用户工作流程</em>
+    <p>
+  </td>
 </table>
 
 </div>
