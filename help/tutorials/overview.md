@@ -4,7 +4,7 @@ description: Adobe Mix Modeler 的视频和教程集。
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: fcae8d9fd4609b2742ade0a589451a037ca69b71
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -56,7 +56,6 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
     <em>了解Adobe Mix Modeler的关键用户界面组件</em>
     <p>
   </td>
-</tr>
   <td>
     <a href="intro/user-workflow.md">
       <img alt="“用户工作流”教程的缩略图图像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
@@ -70,6 +69,7 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
     <em>了解Adobe Mix Modeler中的用户工作流程</em>
     <p>
   </td>
+</tr>
 </table>
 
 </div>
