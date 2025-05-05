@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Mix Modeler端到端演示
 
-请参阅Adobe Mix Modeler的端到端演示。 有关详细信息，请参阅[Mix Modeler文档](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview)。
+请参阅Adobe Mix Modeler的端到端演示。 有关详细信息，请参阅[Mix Modeler文档](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/overview)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
