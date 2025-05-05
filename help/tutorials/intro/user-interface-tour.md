@@ -19,4 +19,4 @@ ht-degree: 28%
 
 请参阅用户界面中的Mix Modeler的主要功能。 有关详细信息，请参阅[Adobe Mix Modeler指南](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/get-started/workflow)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452392?learn=on&enablevpops&captions=chi_hans)
