@@ -11,7 +11,7 @@ exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
 source-git-commit: 28f2a40e4b23240a9efc4c5288412b07df72c755
 workflow-type: tm+mt
 source-wordcount: '33'
-ht-degree: 24%
+ht-degree: 27%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 24%
 
 请参阅Adobe Mix Modeler的端到端演示。 有关详细信息，请参阅[Mix Modeler文档](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440804/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)

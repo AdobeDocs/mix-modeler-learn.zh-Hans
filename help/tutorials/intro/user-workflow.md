@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # 用户工作流
 
-了解Mix Modeler的工作流程。 有关详细信息，请参阅[Mix Modeler工作流](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/get-started/workflow)文档。
+了解Mix Modeler的工作流程。 有关其他信息，请参阅[Mix Modeler工作流](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440216?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
