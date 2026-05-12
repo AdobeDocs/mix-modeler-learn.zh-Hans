@@ -40,7 +40,7 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="“端到端演示”教程的缩略图图像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="“端到端演示”教程的缩略图图像" src="https://video.tv.adobe.com/v/3440804?captions=chi_hans&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -53,7 +53,7 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="“用户界面导览”视频的缩略图" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="“用户界面导览”视频的缩略图" src="https://video.tv.adobe.com/v/3452392?captions=chi_hans&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -66,7 +66,7 @@ Adobe Mix Modeler通过应用机器学习模型，帮助企业衡量、优化和
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="“用户工作流”教程的缩略图图像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="“用户工作流”教程的缩略图图像" src="https://video.tv.adobe.com/v/3440216?captions=chi_hans&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
